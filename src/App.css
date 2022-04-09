@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+input{
+  padding: 10px;
+  width: 250px;
+  margin-bottom: 5px;
+  border-radius: 10px;
+  outline: none;
+  border:1px solid #282c34
+}
+
+button{
+  background-color: #282c34;
+  color: #fff;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+  font-weight: 600;
+  border: none;
+}
+button:hover{
+  background-color:#fff;
+  color:#282c34;
+  border:1px solid #282c34;
+}
+hr{
+  width: 610px;
+  height:2px;
+  background-color: #282c34;
+}
